@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-color: rgb(191, 199, 202);
+}
+
+.line{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+
+h1{
+    text-align: center;
+}
+
+.App{
+    margin: auto;
+    max-width: 900px;
+}
+.title{
+    font-weight: 400;
+    font-size: 40px;
+}
